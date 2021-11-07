@@ -1,6 +1,6 @@
 # user_login_esoft_activity
 
-![preview-v1](readme/preview-v1.jpeg)
+![preview-v1](./readme/preview-v1.jpeg)
 
 
 A new Flutter project.
